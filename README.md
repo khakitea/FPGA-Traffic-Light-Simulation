@@ -16,5 +16,7 @@ Design and implement traffic light simulation on breadboard (already done and no
   * Timers were used validate user input and LED swtich timing.
   * The user interface design was drawn using the provided function.
     - Initializing the ports and GPIO pins were done by me.
-  * To manage and control the touch inputs from the userend, I used PLL. 'Lab4_task2a_init.c'
-    - Interrupts were used to catch input signals.  'SSD2119_Touch'
+  * To manage and control the touch inputs from the userend, I used PLL.
+    -'Lab4_task2a_init.c'
+  * Interrupts were used to catch input signals.
+    - 'SSD2119_Touch'
